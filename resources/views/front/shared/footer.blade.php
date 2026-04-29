@@ -26,9 +26,9 @@
                         <span>+52 (33) 3658 1051</span>
                     </div>
                 </a>
-                <a class="flex gap-2" href="mailto:recepcion@hoteljacentro.com">
+                <a class="flex gap-2" href="mailto:recepcion@soleplazahotel.com">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
-                    <span>recepcion@hoteljacentro.com</span>
+                    <span>recepcion@soleplazahotel.com</span>
                 </a>
                 <a class="flex gap-2" href="#">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">
@@ -58,7 +58,7 @@
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
             <noscript>2023</noscript>
-            Hotel JA Centro. Todos los derechos reservados.
+            Sole Plaza Hotel. Todos los derechos reservados.
             Powered by <a href="https://pcbtroniks.com" target="_blank" class="font-bold">Pcbtroniks</a>.
         </p>
     </div>

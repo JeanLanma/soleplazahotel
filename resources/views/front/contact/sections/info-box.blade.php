@@ -19,7 +19,7 @@
                 </li>
                 <li>
                     <p>
-                        recepcion@hoteljacentro.com
+                        recepcion@soleplazahotel.com
                     </p>
                 </li>
                 <li>

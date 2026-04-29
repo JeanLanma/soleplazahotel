@@ -2,7 +2,7 @@
     <div class="p-8">
 
         <div class="flex justify-center items-center flex-col">
-            <h3 class="text-3xl font-bold text-dark-text">Hotel JA Centro</h3>
+            <h3 class="text-3xl font-bold text-dark-text">Sole Plaza Hotel</h3>
             <span class="border-b-4 border-main block w-80 my-2"></span>
             <p class="w-1/2 text-center text-dark-text">
             🏨 Confort Asequible 🏨

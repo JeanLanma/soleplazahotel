@@ -13,7 +13,7 @@
 
                     <div class="h-52 md:h-72 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/simple.jpeg') }}" alt="Habitaciones Hotel JA Centro">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/simple.jpeg') }}" alt="Habitaciones Sole Plaza Hotel">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -91,7 +91,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/servicio-habitacion.jpg') }}" alt="Servicio a la habitación Hotel JA Centro">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/servicio-habitacion.jpg') }}" alt="Servicio a la habitación Sole Plaza Hotel">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -163,7 +163,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/wifi.jpg') }}" alt="Wi-FI Hotel JA Centro">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/wifi.jpg') }}" alt="Wi-FI Sole Plaza Hotel">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -200,7 +200,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/aire.jpg') }}" alt="Aire acondicionado Hotel JA Centro">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/services/aire.jpg') }}" alt="Aire acondicionado Sole Plaza Hotel">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
