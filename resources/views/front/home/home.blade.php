@@ -11,7 +11,7 @@ button.cta-main-button {
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    background: #ff7245;/* Main */
+    background: #dfa974;/* Main */
     font-family: "Montserrat", sans-serif;
     box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -48,7 +48,7 @@ button.cta-main-button span {
 }
 
 button.cta-main-button:hover span {
-    color: #ff7245;
+    color: #dfa974;
     animation: scaleUp 0.3s ease-in-out;
 }
 
